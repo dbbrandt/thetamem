@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-thetamem-dev-132403-authRole",
+      "UnauthRoleArn": "arn:aws:iam::399712746635:role/amplify-thetamem-dev-132403-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::399712746635:role/amplify-thetamem-dev-132403-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-thetamem-dev-132403-deployment",
+      "UnauthRoleName": "amplify-thetamem-dev-132403-unauthRole",
+      "StackName": "amplify-thetamem-dev-132403",
+      "StackId": "arn:aws:cloudformation:us-east-1:399712746635:stack/amplify-thetamem-dev-132403/d0f60240-62da-11ee-ac9c-121d2a86d1ab",
+      "AmplifyAppId": "d2vej95950yte7"
+    }
+  }
+}
