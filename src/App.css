@@ -5,20 +5,20 @@
 
 .App-header {
   /*background-color: #282c34;*/
-  background-color: #95b3ef;
-  width:  100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  width: 100%;
+  padding: 20px;
+  font-size: calc(10px + 1vmin);
   color: white;
+  background-color: #95b3ef;
 }
 
 .App-body {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -27,7 +27,12 @@
 .App-title {
   display: flex;
   flex-direction: column;
+  align-items: center;
   color: black;
   min-height: 100vh;
   justify-content: center;
+}
+
+.Menu-icon {
+  background: #95b3ef;
 }
